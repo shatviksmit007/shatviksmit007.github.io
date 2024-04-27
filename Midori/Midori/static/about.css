@@ -1,0 +1,7 @@
+#bgvid{
+    position: fixed;
+    right: -0.05;
+    bottom: -0.05;
+    min-width: 100%;
+    min-height: 100%;
+}
